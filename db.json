@@ -6,34 +6,6 @@
         "phone": "0901234567",
         "avatar": null,
         "dateOfBirth": "1990-5-15"
-      },
-      {
-        "name": "Trần Thị Bình",
-        "email": "tranthibinh@gmail.com",
-        "phone": "0912345678",
-        "avatar": null,
-        "dateOfBirth": "1992-8-21"
-      },
-      {
-        "name": "Lê Văn Cường",
-        "email": "levancuong@gmail.com",
-        "phone": "0923456789",
-        "avatar": null,
-        "dateOfBirth": "1988-3-10"
-      },
-      {
-        "name": "Phạm Thị Dung",
-        "email": "phamthidung@gmail.com",
-        "phone": "0934567890",
-        "avatar": null,
-        "dateOfBirth": "1995-11-25"
-      },
-      {
-        "name": "Hoàng Văn Em",
-        "email": "hoangvanemm@gmail.com",
-        "phone": "0945678901",
-        "avatar": null,
-        "dateOfBirth": "1993-7-8"
-      },
+      }
     ]
 }
