@@ -1,4 +1,5 @@
-[
+{
+"users":[
       {
         "name": "Nguyễn Văn An API",
         "email": "nguyenvanan@gmail.com",
@@ -35,3 +36,4 @@
         "dateOfBirth": "1993-7-8"
       },
     ]
+}
