@@ -9,11 +9,9 @@
     "name": "typicode"
   },
   "users":[
-    {
-      "name": "Nguyễn Văn An",
-      "email": "nguyenvanan@gmail.com",
-      "phone": "0901234567",
-      },
-
+   {
+      "id": 1,
+      "title": "hello"
+    }
   ]
 }
