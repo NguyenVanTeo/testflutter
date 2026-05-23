@@ -1,11 +1,11 @@
 {
-"users":[
-      {
-        "name": "Nguyễn Văn An API",
-        "email": "nguyenvanan@gmail.com",
-        "phone": "0901234567",
-        "avatar": null,
-        "dateOfBirth": "1990-5-15"
-      }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
