@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users":[
+    {
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0901234567",
+      "avatar": null,
+      "dateOfBirth": "1990-5-15"
+      },
+
+  ]
 }
