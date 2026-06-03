@@ -40,5 +40,43 @@
         "avatar": null,
         "dateOfBirth": "1993-07-08T00:00:00.000Z"
       }
+  ],
+  "accounts": [
+    {
+        "id" : 1,
+        "usserId":1,
+        "username": "nguyenvanteo",
+        "password": "Abc@1234",
+        "status": "active",
+        "lastLogin": "2026-05-16T00:00:00.000Z",
+        "createdAt": "2026-05-15T00:00:00.000Z"
+      },
+      {
+        "id" : 2,
+        "usserId":2,
+        "username": "tranthibinh",
+        "password": "Abc@1234",
+        "status": "active",
+        "lastLogin": "2026-05-17T00:00:00.000Z",
+        "createdAt": "2026-05-15T00:00:00.000Z"
+      },
+      {
+        "id" : 3,
+        "usserId":3,
+        "username": "levancuong",
+        "password": "Abc@1234",
+        "status": "active",
+        "lastLogin": "2026-05-18T00:00:00.000Z",
+        "createdAt": "2026-05-15T00:00:00.000Z"
+      },
+      {
+        "id" : 4,
+        "usserId":4,
+        "username": "phamthidung",
+        "password": "Abc@1234",
+        "status": "active",
+        "lastLogin": "2026-05-19T00:00:00.000Z",
+        "createdAt": "2026-05-15T00:00:00.000Z"
+      }
   ]
 }
