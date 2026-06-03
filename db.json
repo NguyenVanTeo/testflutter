@@ -2,11 +2,11 @@
   "users": [
     {
         "id" : 1,
-        "name": "Nguyễn Văn An",
+        "name": "Nguyễn Văn Teo",
         "email": "nguyenvanan@gmail.com",
         "phone": "0901234567",
         "avatar": null,
-        "dateOfBirth": "1990-5-15"
+        "dateOfBirth": "1990-5-15T00:00:00.000Z"
       },
       {
         "id" : 2,
@@ -22,7 +22,7 @@
         "email": "levancuong@gmail.com",
         "phone": "0923456789",
         "avatar": null,
-        "dateOfBirth": "1988-3-10"
+        "dateOfBirth": "1988-3-10T00:00:00.000Z"
       },
       {
         "id" : 4,
@@ -30,7 +30,7 @@
         "email": "phamthidung@gmail.com",
         "phone": "0934567890",
         "avatar": null,
-        "dateOfBirth": "1995-11-25"
+        "dateOfBirth": "1995-11-25T00:00:00.000Z"
       },
       {
         "id" : 5,
@@ -38,7 +38,7 @@
         "email": "hoangvanemm@gmail.com",
         "phone": "0945678901",
         "avatar": null,
-        "dateOfBirth": "1993-7-8"
+        "dateOfBirth": "1993-7-8T00:00:00.000Z"
       }
   ]
 }
