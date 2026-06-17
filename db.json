@@ -44,7 +44,7 @@
   "accounts": [
     {
         "id" : 1,
-        "usserId":1,
+        "userId":1,
         "username": "nguyenvanteo",
         "password": "Abc@1234",
         "status": "active",
@@ -53,7 +53,7 @@
       },
       {
         "id" : 2,
-        "usserId":2,
+        "userId":2,
         "username": "tranthibinh",
         "password": "Abc@1234",
         "status": "active",
@@ -62,7 +62,7 @@
       },
       {
         "id" : 3,
-        "usserId":3,
+        "userId":3,
         "username": "levancuong",
         "password": "Abc@1234",
         "status": "active",
@@ -71,7 +71,7 @@
       },
       {
         "id" : 4,
-        "usserId":4,
+        "userId":4,
         "username": "phamthidung",
         "password": "Abc@1234",
         "status": "unactive",
